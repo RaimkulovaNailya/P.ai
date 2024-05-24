@@ -1,3 +1,3 @@
 # P.ai
-only layout
-the layout called "pai" on Figma
+Only layout.
+It called "pai" on Figma
