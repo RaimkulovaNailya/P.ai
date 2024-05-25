@@ -63,6 +63,7 @@
     padding-top: 160px;
 }
 .second-text-in-second-sect{
+    display: block;
     color: white;
     font-size: 16px;
     text-align: center;
@@ -396,4 +397,7 @@ footer{
     padding-left: 50px;
     padding-bottom: 100px;
     padding-right: 50px;
+}
+.logo-footer{
+    align-self: self-start;
 }
